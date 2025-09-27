@@ -60,3 +60,7 @@ If you reference this work, please cite:
 `Anand, P. (2025). Improving Autonomous Vehicle Object Detection in Extreme Weather with YOLOv8n.`
 
 
+[Open in Colab](https://colab.research.google.com/github/PandianAnand/Autonomous-Vehicle-Improvement/blob/main/Inspirit_AI_vehicle_colab.ipynb)
+
+
+
