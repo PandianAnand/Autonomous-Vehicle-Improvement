@@ -2,6 +2,7 @@
 
 This project fine-tunes the **YOLOv8n** object-detection model to help self-driving cars accurately detect vehicles and pedestrians in rain, fog, snow, sandstorms, and other adverse weather conditions.
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PandianAnand/Autonomous-Vehicle-Improvement/blob/main/Inspirit_AI_vehicle_Colab.ipynb)
 ---
 
 ## Dataset
@@ -59,8 +60,6 @@ Python · Ultralytics YOLOv8 · OpenCV · Pandas · Jupyter Notebooks
 If you reference this work, please cite:  
 `Anand, P. (2025). Improving Autonomous Vehicle Object Detection in Extreme Weather with YOLOv8n.`
 
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PandianAnand/Autonomous-Vehicle-Improvement/blob/main/Inspirit_AI_vehicle_Colab.ipynb)
 
 
 
