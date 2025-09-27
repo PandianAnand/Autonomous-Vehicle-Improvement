@@ -59,3 +59,7 @@ Python · Ultralytics YOLOv8 · OpenCV · Pandas · Jupyter Notebooks
 If you reference this work, please cite:  
 `Anand, P. (2025). Improving Autonomous Vehicle Object Detection in Extreme Weather with YOLOv8n.`
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PandianAnand/Autonomous-Vehicle-Improvement/blob/main/Inspirit_AI_vehicle_colab.ipynb)
+
+
+
