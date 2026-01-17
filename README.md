@@ -42,7 +42,9 @@ Click the badge below to **view and run this notebook in Google Colab**:
 ---
 
 ## Sample Output
-![Comparison](images/non_tuned_vs_tuned.png)  
+<img width="274" height="185" alt="Nontuned" src="https://github.com/user-attachments/assets/4661f4a7-26d5-403d-b952-7a43abe74392" /> <img width="275" height="185" alt="Tuned" src="https://github.com/user-attachments/assets/e904fc74-9c6b-40d6-a66b-2fe75f31184d" />
+
+  
 *Left: non-tuned YOLOv8n (single car @0.55 confidence)  
 Right: fine-tuned YOLOv8n (multiple vehicles, up to 0.91 confidence).*
 
@@ -72,3 +74,4 @@ If you reference this work, please cite:
 
 Anand, P. (2025). *Enhancement of Autonomous Vehicles During Extreme Weather*. Inspirit AI Research Program.  
 Supporting implementation: *Improving Autonomous Vehicle Object Detection in Extreme Weather*, GitHub Repository.
+
