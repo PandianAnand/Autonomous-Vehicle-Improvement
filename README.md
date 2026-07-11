@@ -8,7 +8,7 @@ This project fine-tunes the **YOLOv8n** object-detection model to help self-driv
 
 Click the badge below to **view and run this notebook in Google Colab**:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PandianAnand/Autonomous-Vehicle-Improvement/blob/main/Inspirit_AI_vehicle_Colab.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PandianAnand/Autonomous-Vehicle-Improvement/blob/main/Inspirit_AI_vehicle.ipynb)
 ---
 
 ## Dataset
